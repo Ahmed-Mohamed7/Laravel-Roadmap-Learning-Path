@@ -25,7 +25,7 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 
 | Topic | Learning Links |
 | ----- | ----- |
-| **Routing and Controllers: Basics** | :question: [Let's Test Your Laravel Routing Skills: Complete 12 Tasks](https://www.youtube.com/watch?v=pENlD3izA3Q) |
+| **Routing and Controllers: Basics ::cd::** | :question: [Let's Test Your Laravel Routing Skills: Complete 12 Tasks](https://www.youtube.com/watch?v=pENlD3izA3Q) |
 | Callback Functions and Route::view() |:book: [Basic Routing](https://laravel.com/docs/routing#basic-routing) <br>:book: [View Routes](https://laravel.com/docs/routing#view-routes) <br>|
 | Routing to a Single Controller Method |:book: [Basic Controllers with Routes](https://laravel.com/docs/controllers#basic-controllers) <br>|
 | Route Parameters |:book: [Route Parameters](https://laravel.com/docs/routing#route-parameters) <br>|
