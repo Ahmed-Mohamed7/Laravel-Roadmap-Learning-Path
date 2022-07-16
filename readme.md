@@ -26,16 +26,16 @@ __Link icons: :book: Official Docs :clapper: Video :page_facing_up: Article :cap
 | Topic | Learning Links |
 | ----- | ----- |
 | **Routing and Controllers: Basics :+1:** | :question: [Let's Test Your Laravel Routing Skills: Complete 12 Tasks](https://www.youtube.com/watch?v=pENlD3izA3Q) |
-| Callback Functions and Route::view() |:book: [Basic Routing](https://laravel.com/docs/routing#basic-routing) <br>:book: [View Routes](https://laravel.com/docs/routing#view-routes) <br>|
-| Routing to a Single Controller Method |:book: [Basic Controllers with Routes](https://laravel.com/docs/controllers#basic-controllers) <br>|
-| Route Parameters |:book: [Route Parameters](https://laravel.com/docs/routing#route-parameters) <br>|
-| Route Naming |:book: [Names Routes](https://laravel.com/docs/routing#named-routes) <br> :clapper: [Laravel: Why You Need Route Names?](https://www.youtube.com/watch?v=7lalb6HtR1c) <br>|
-| Route Groups |:book: [Route Groups](https://laravel.com/docs/routing#route-groups) <br> :clapper: [Laravel Route Grouping: Simple to Very Complex](https://www.youtube.com/watch?v=I6kyfSmPhn8) <br> :clapper: [More videos](videos/route-groups.md) |
-| **Blade Basics** | :question: [Let's Test Your Laravel Blade Skills: Complete 8 Tasks](https://www.youtube.com/watch?v=P8s7UHuUhbg)<br>:clapper: [9 Quick Tips about Laravel Blade](https://www.youtube.com/watch?v=-Glz1InN68o) <br>|
-| Displaying Variables in Blade |:book: [Blade: Displaying Data](https://laravel.com/docs/blade#displaying-data) <br>|
-| Blade If-Else and Loop Structures |:book: [Blade: If-Statements](https://laravel.com/docs/blade#if-statements) <br>:book: [Blade Loops](https://laravel.com/docs/blade#loops) <br>|
+| Callback Functions and Route::view()  :+1: |:book: [Basic Routing](https://laravel.com/docs/routing#basic-routing) <br>:book: [View Routes](https://laravel.com/docs/routing#view-routes) <br>|
+| Routing to a Single Controller Method  :+1: |:book: [Basic Controllers with Routes](https://laravel.com/docs/controllers#basic-controllers) <br>|
+| Route Parameters  :+1:|:book: [Route Parameters](https://laravel.com/docs/routing#route-parameters) <br>|
+| Route Naming :+1:|:book: [Names Routes](https://laravel.com/docs/routing#named-routes) <br> :clapper: [Laravel: Why You Need Route Names?](https://www.youtube.com/watch?v=7lalb6HtR1c) <br>|
+| Route Groups :+1:|:book: [Route Groups](https://laravel.com/docs/routing#route-groups) <br> :clapper: [Laravel Route Grouping: Simple to Very Complex](https://www.youtube.com/watch?v=I6kyfSmPhn8) <br> :clapper: [More videos](videos/route-groups.md) |
+| **Blade Basics**:+1: | :question: [Let's Test Your Laravel Blade Skills: Complete 8 Tasks](https://www.youtube.com/watch?v=P8s7UHuUhbg)<br>:clapper: [9 Quick Tips about Laravel Blade](https://www.youtube.com/watch?v=-Glz1InN68o) <br>|
+| Displaying Variables in Blade :+1: |:book: [Blade: Displaying Data](https://laravel.com/docs/blade#displaying-data) <br>|
+| Blade If-Else and Loop Structures :+1:|:book: [Blade: If-Statements](https://laravel.com/docs/blade#if-statements) <br>:book: [Blade Loops](https://laravel.com/docs/blade#loops) <br>|
 | Layout: @include, @extends, @section, @yield |:book: [Blade: Layout Using Template Inheritance](https://laravel.com/docs/blade#layouts-using-template-inheritance) <br>|
-| Blade Components |:book: [Blade Components](https://laravel.com/docs/blade#components) <br>:clapper: [Laravel Blade Components: Two Examples - Laravel Breeze/UI](https://www.youtube.com/watch?v=HybWBINeXMw) <br>|
+| Blade Components|:book: [Blade Components](https://laravel.com/docs/blade#components) <br>:clapper: [Laravel Blade Components: Two Examples - Laravel Breeze/UI](https://www.youtube.com/watch?v=HybWBINeXMw) <br>|
 | **Auth Basics** | :question: [Test Your Laravel Auth Skills: Complete 7 Tasks](https://www.youtube.com/watch?v=v_3NmwtN_S0)<br>:clapper: [8 Tips & Tricks about Laravel Auth](https://www.youtube.com/watch?v=-dpp4CJS6Vk) <br> |
 | Starter Kits: Breeze (Tailwind) or Laravel UI (Bootstrap) |:book: [Laravel Breeze Official Documentation](https://laravel.com/docs/starter-kits#laravel-breeze) <br>:book: [Laravel UI: Official Github Page](https://github.com/laravel/ui) <br> :clapper: [Laravel 8 Auth: 5 "Latest" Things You Need to Know](https://www.youtube.com/watch?v=L1FVdHdEm_8) <br> [More videos](videos/auth-starter-kits.md)<br>|
 | Default Auth Model and Access its Fields from Anywhere |:book: [Retrieving the Authenticated User](https://laravel.com/docs/authentication#retrieving-the-authenticated-user) <br>|
